@@ -73,7 +73,6 @@ const DelAdmins = () => {
           >
             <Column field="name" header="Name" />
             <Column field="email" header="Email" />
-            {/* <Column field="gender" header="gender" /> */}
             <Column
               field="verified"
               header="Verified"
