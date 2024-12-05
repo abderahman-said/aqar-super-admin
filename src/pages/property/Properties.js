@@ -104,7 +104,6 @@ console.log("selectedType" ,selectedType)
               Add {ele.type}
             </button>
           </div>
-           
           <div className="Tabel_container">
             <div className={styles.Tabel} id="tableFirstItemStart">
               <DataTable
